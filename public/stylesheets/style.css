@@ -1,5 +1,4 @@
 body {
-  padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
@@ -8,7 +7,7 @@ a {
 }
 
 .container {
-  margin: 50px;
+  margin: 5px;
 }
 
 .row {
